@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>marcfargas.es</title>
-    <link>https://www.marcfargas.es/</link>
-    <description>Recent content on marcfargas.es</description>
+    <title>Posts on marcfargas.es</title>
+    <link>https://www.marcfargas.es/posts/</link>
+    <description>Recent content in Posts on marcfargas.es</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <copyright>&amp;copy; 2021 
   | Follow on &lt;a href=&#34;https://twitter.com/telenieko&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt; 
   | &lt;a href=&#34;https://themes.gohugo.io/themes/hugo-papermod/&#34; target=&#34;_blank&#34;&gt;PaperMod theme&lt;/a&gt; 
   &amp; &lt;a href=&#34;http://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; ♥</copyright>
-    <lastBuildDate>Fri, 28 May 2010 00:00:00 +0000</lastBuildDate><atom:link href="https://www.marcfargas.es/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 May 2010 00:00:00 +0000</lastBuildDate><atom:link href="https://www.marcfargas.es/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Responsabilidad política</title>
       <link>https://www.marcfargas.es/2010/05/responsabilidad-pol%C3%ADtica/</link>
@@ -367,8 +367,6 @@ A tres dias del día &amp;ldquo;D&amp;rdquo; aún hay gente que se pregunta much
 <p>Que nadie se confunda, ni malinterprete las inevitables contradicciones de la Catalunya actual. Que nadie yerre el diagnóstico, por muchos que sean los problemas, las desafecciones y los sinsabores. No estamos ante una sociedad débil, postrada y dispuesta a asistir impasible al menoscabo de su dignidad. No deseamos presuponer un desenlace negativo y confiamos en la probidad de los jueces, pero nadie que conozca Catalunya pondrá en duda que el reconocimiento de la identidad, la mejora del autogobierno, la obtención de una financiación justa y un salto cualitativo en la gestión de las infraestructuras son y seguirán siendo reclamaciones tenazmente planteadas con un amplísimo apoyo político y social. Si es necesario, la solidaridad catalana volverá a articular la legítima respuesta de una sociedad responsable.</p>
 ]]></content:encoded>
     </item>
-    
-    
     
   </channel>
 </rss>

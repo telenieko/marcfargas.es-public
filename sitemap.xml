@@ -2,12 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.marcfargas.es/archives/</loc>
+    <loc>https://www.marcfargas.es/tags/espa%C3%B1a/</loc>
+    <lastmod>2010-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.marcfargas.es/</loc>
+    <lastmod>2010-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.marcfargas.es/search/</loc>
+    <loc>https://www.marcfargas.es/tags/pol%C3%ADtica/</loc>
+    <lastmod>2010-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.marcfargas.es/posts/</loc>
+    <lastmod>2010-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.marcfargas.es/2010/05/responsabilidad-pol%C3%ADtica/</loc>
+    <lastmod>2010-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.marcfargas.es/tags/</loc>
+    <lastmod>2010-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.marcfargas.es/tags/barcelona/</loc>
+    <lastmod>2010-05-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.marcfargas.es/tags/diagonal/</loc>
+    <lastmod>2010-05-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.marcfargas.es/tags/reforma-diagonal/</loc>
+    <lastmod>2010-05-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.marcfargas.es/2010/05/resac%C3%B3n-diagonal/</loc>
+    <lastmod>2010-05-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.marcfargas.es/2010/05/los-cuchillos-ginsu-y-zapatero/</loc>
+    <lastmod>2010-05-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.marcfargas.es/2010/05/decisiones-t%C3%A9cnicas-en-manos-de-la-ciudadania/</loc>
+    <lastmod>2010-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.marcfargas.es/2010/05/la-inteligencia-tras-la-consulta-de-la-diagonal/</loc>
+    <lastmod>2010-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.marcfargas.es/2010/05/boulevard-diagonal-la-opci%C3%B3n-a/</loc>
+    <lastmod>2010-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.marcfargas.es/2010/05/boulevard-diagonal-la-opci%C3%B3n-b/</loc>
+    <lastmod>2010-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.marcfargas.es/2010/05/boulevard-diagonal-la-opci%C3%B3n-c/</loc>
+    <lastmod>2010-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.marcfargas.es/2010/05/diagonal-la-reforma-necesaria/</loc>
+    <lastmod>2010-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.marcfargas.es/tags/catalunya/</loc>
+    <lastmod>2008-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.marcfargas.es/2008/11/la-dignidad-de-catalunya/</loc>
+    <lastmod>2008-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.marcfargas.es/archives/</loc>
+  </url><url>
+    <loc>https://www.marcfargas.es/search/</loc>
   </url>
 </urlset>
