@@ -2,25 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.marcfargas.es/2021/</loc>
-    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.marcfargas.es/tags/internet/</loc>
     <lastmod>2021-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.marcfargas.es/</loc>
     <lastmod>2021-08-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.marcfargas.es/posts/</loc>
+    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.marcfargas.es/tags/</loc>
     <lastmod>2021-08-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.marcfargas.es/2021/hugo/</loc>
+    <loc>https://www.marcfargas.es/2021/08/wip-migrando-a-hugo/</loc>
     <lastmod>2021-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.marcfargas.es/2012/06/migrando-a-blogger/</loc>
-    <lastmod>2012-06-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.marcfargas.es/posts/</loc>
     <lastmod>2012-06-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.marcfargas.es/2011/01/contrase%C3%B1as-seguras-sin-recordar-ninguna-ni-apuntarlas/</loc>

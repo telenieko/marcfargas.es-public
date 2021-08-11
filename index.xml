@@ -13,13 +13,11 @@
     <lastBuildDate>Wed, 11 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.marcfargas.es/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WIP: Migrando a Hugo</title>
-      <link>https://www.marcfargas.es/2021/hugo/</link>
+      <link>https://www.marcfargas.es/2021/08/wip-migrando-a-hugo/</link>
       <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.marcfargas.es/2021/hugo/</guid>
-      <description>Al parecer mi blog estaba fuera de línea, no he escrito nada desde 2013 así que tampoco le he prestado demasiada atención&amp;hellip;
-Hasta ahora tenía este site en Blogger, mientras que marcfargas.com hace años que está hecho con Hugo así que ya puestos&amp;hellip; vamos a migrar de Blogger a Hugo.
-De momento están todos los contenidos hasta 2011 migrados. Me falta 2012 y 2013.</description>
+      <guid>https://www.marcfargas.es/2021/08/wip-migrando-a-hugo/</guid>
+      <description>Detalle de la migración a Hugo</description>
       <content:encoded><![CDATA[<p>Al parecer mi blog estaba fuera de línea, no he escrito nada desde 2013 así que tampoco le he prestado demasiada atención&hellip;</p>
 <p>Hasta ahora tenía este <em>site</em> en <a href="https://www.marcfargas.es/2012/06/migrando-a-blogger/">Blogger</a>, mientras que <a href="https://www.marcfargas.com">marcfargas.com</a> hace años que está hecho con <a href="https://gohugo.io/">Hugo</a> así que ya puestos&hellip; vamos a migrar de Blogger a Hugo.</p>
 <p>De momento están todos los contenidos hasta 2011 migrados. Me falta 2012 y 2013.</p>
