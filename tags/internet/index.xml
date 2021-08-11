@@ -10,7 +10,40 @@
   | Follow on &lt;a href=&#34;https://twitter.com/telenieko&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt; 
   | &lt;a href=&#34;https://themes.gohugo.io/themes/hugo-papermod/&#34; target=&#34;_blank&#34;&gt;PaperMod theme&lt;/a&gt; 
   &amp; &lt;a href=&#34;http://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; ♥</copyright>
-    <lastBuildDate>Wed, 05 Jan 2011 00:00:00 +0000</lastBuildDate><atom:link href="https://www.marcfargas.es/tags/internet/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.marcfargas.es/tags/internet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WIP: Migrando a Hugo</title>
+      <link>https://www.marcfargas.es/2021/hugo/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.marcfargas.es/2021/hugo/</guid>
+      <description>Al parecer mi blog estaba fuera de línea, no he escrito nada desde 2013 así que tampoco le he prestado demasiada atención&amp;hellip;
+Hasta ahora tenía este site en Blogger, mientras que marcfargas.com hace años que está hecho con Hugo así que ya puestos&amp;hellip; vamos a migrar de Blogger a Hugo.
+De momento están todos los contenidos hasta 2011 migrados. Me falta 2012 y 2013.</description>
+      <content:encoded><![CDATA[<p>Al parecer mi blog estaba fuera de línea, no he escrito nada desde 2013 así que tampoco le he prestado demasiada atención&hellip;</p>
+<p>Hasta ahora tenía este <em>site</em> en <a href="https://www.marcfargas.es/2012/06/migrando-a-blogger/">Blogger</a>, mientras que <a href="https://www.marcfargas.com">marcfargas.com</a> hace años que está hecho con <a href="https://gohugo.io/">Hugo</a> así que ya puestos&hellip; vamos a migrar de Blogger a Hugo.</p>
+<p>De momento están todos los contenidos hasta 2011 migrados. Me falta 2012 y 2013.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Migrando a Blogger</title>
+      <link>https://www.marcfargas.es/2012/06/migrando-a-blogger/</link>
+      <pubDate>Tue, 12 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.marcfargas.es/2012/06/migrando-a-blogger/</guid>
+      <description>Estos días (el día después de darme cuenta que hace más de un año que no escribo nada) me estoy dedicando a probar Blogger como plataforma para escribir y estoy migrando aquí lo que tenía en el otro lado.
+De momento parece que lo más complicado serán los comentarios&amp;hellip; según Disqus están todos migrados pero no aparece ninguno. ¡Ya veremos si aparecen!
+El cambio más notable es que lo que escriba en castellano lo colgaré en www.</description>
+      <content:encoded><![CDATA[<p>Estos días (el día después de darme cuenta que hace más de un año que no escribo nada) me estoy dedicando a probar Blogger como plataforma para escribir y estoy migrando aquí lo que tenía en el otro lado.</p>
+<p>De momento parece que lo más complicado serán los comentarios&hellip; según Disqus están todos migrados pero no aparece ninguno. ¡Ya veremos si aparecen!</p>
+<p>El cambio más notable es que lo que escriba en castellano lo colgaré en <a href="http://www.marcfargas.es/">www.marcfargas.es</a> y lo que escriba en inglés lo colgaré de <a href="http://www.marcfargas.com/">www.marcfargas.com</a></p>
+<p>Si estás suscrito por RSS cambia la URL por <a href="http://feeds.feedburner.com/marcfargascom">http://feeds.feedburner.com/marcfargascom</a> para marcfargas.es la de marcfargas.com la pondré cuando la sepa ;)</p>
+<p>¡Ahora solo falta que se me ocurra algo nuevo que escribir!</p>
+<p>(Como con todos los cambios de blog, es posible que tu lector RSS se vuelva, literalmente, majara. Si es así: ¡lo siento!)</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>Contraseñas seguras sin recordar ninguna (ni apuntarlas)</title>
       <link>https://www.marcfargas.es/2011/01/contrase%C3%B1as-seguras-sin-recordar-ninguna-ni-apuntarlas/</link>
