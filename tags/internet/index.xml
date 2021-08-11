@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Internet on marcfargas.es</title>
+    <link>https://www.marcfargas.es/tags/internet/</link>
+    <description>Recent content in Internet on marcfargas.es</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <copyright>&amp;copy; 2021 
+  | Follow on &lt;a href=&#34;https://twitter.com/telenieko&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt; 
+  | &lt;a href=&#34;https://themes.gohugo.io/themes/hugo-papermod/&#34; target=&#34;_blank&#34;&gt;PaperMod theme&lt;/a&gt; 
+  &amp; &lt;a href=&#34;http://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; ♥</copyright>
+    <lastBuildDate>Wed, 05 Jan 2011 00:00:00 +0000</lastBuildDate><atom:link href="https://www.marcfargas.es/tags/internet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contraseñas seguras sin recordar ninguna (ni apuntarlas)</title>
+      <link>https://www.marcfargas.es/2011/01/contrase%C3%B1as-seguras-sin-recordar-ninguna-ni-apuntarlas/</link>
+      <pubDate>Wed, 05 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.marcfargas.es/2011/01/contrase%C3%B1as-seguras-sin-recordar-ninguna-ni-apuntarlas/</guid>
+      <description>Dicen los sabios que no hay que usar la misma contraseña en más de un sitio, y que todas han de ser mínimamente buenas (ie: no vale el nombre del perro). Pero es un consejo muy ignorado, a fin de cuentas nadie quiere tener que recordar tantas palabrejas.
+Ahora bien, no tendría más gracia (y queda más friki) poder generar mentalmente una contraseña para cada sitio de manera que todas fueran diferentes y complejas, pero que no tuviéramos que recordar ninguna?</description>
+      <content:encoded><![CDATA[<p>Dicen los sabios que no hay que usar la misma contraseña en más de un sitio, y que todas han de ser mínimamente buenas (ie: no vale el nombre del perro). Pero es un consejo muy ignorado, a fin de cuentas nadie quiere tener que recordar tantas palabrejas.</p>
+<p>Ahora bien, no tendría más gracia (y queda más friki) poder generar <strong>mentalmente</strong> una contraseña para cada sitio de manera que todas fueran diferentes y complejas, pero que no tuviéramos que recordar ninguna? (La clave aquí, está en el &ldquo;mentalmente&rdquo;).</p>
+<p>Es decir, en lugar de recordar infinidad de contraseñas, solo hay que recordar el <strong>proceso para generarlas mentalmente</strong>.</p>
+<p>Algunos ejemplos para, por ejemplo, twitter.com:</p>
+<ul>
+<li>Doy la vuelta al nombre de la web, luego una de cada dos consonantes en mayúsculas y las vocales las cambio por &ldquo;.&quot;: <strong>r.Tt.Wt</strong> sería la contraseña para Twitter.com</li>
+<li>Cambio cada vocal por un numero (aeiou &gt; 12345), sumo los valores de las vocales y lo pongo en esa posición con un &ldquo;!&quot;: <strong>tw3tt5!2r</strong> (el &ldquo;5!&rdquo; es la suma de valores y el ! en la quinta posición).</li>
+</ul>
+<p>O cualquier otra cosa que se nos ocurra, la gracia es que el proceso es sencillo, para cada web nos sale una contraseña diferente y, <strong>mientras no digamos a nadie cual es el proceso nuestras contraseñas estarán seguras.</strong></p>
+<p>Llamaremos a esto: &ldquo;Generación de contraseñas por algoritmos simples&rdquo; o &ldquo;Generación de contraseñas mentalmente&rdquo;.</p>
+<p>Un par de recomendaciones cuando diseñeis vuestro algoritmo:</p>
+<ul>
+<li>Algunas webs tienen ciertos requisitos en cuanto a las contraseñas de modo que, para evitarnos problemas, el algoritmo debería asegurar que siempre aparezcan:
+<ul>
+<li>Números</li>
+<li>Mayúsculas y Minúsculas</li>
+<li>Signos de puntuación (aunque siempre sea el mismo al final, principio o el medio).</li>
+</ul>
+</li>
+<li>Si cambiamos de algoritmo deberemos ir cambiando todas las contraseñas para no tener que recordar que algoritmo va con cada web (la cosa pierde toda la gracia).</li>
+</ul>
+<p>Ahora haced el favor de dejar de usar el nombre del perro como contraseña para el banco, ¡leñe!.</p>
+<p><strong>NOTA 16.13 CET:</strong> Los ejemplos de arriba son eso, ejemplos. Y como tales son simples y sencillos. El algoritmo que uno piense para si mismo debe ser algo más elaborado que dé contraseñas más complejas, no una simple sustitución o reordenación de letras.</p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>
